@@ -183,10 +183,6 @@ jupyter notebook notebooks/fpt_stock_price_prediction.ipynb
 - [ ] Hyperparameter tuning (window sizes, learning rates)
 - [ ] Cross-validation for robust performance estimation
 
-## 👥 Team Name - CONQ34
-
-- **Nguyen Bui** - Model Development & Feature Engineering
-
 ## 📚 References
 
 - [Are Transformers Effective for Time Series Forecasting?](https://arxiv.org/abs/2205.13504) - LTSF-Linear paper
@@ -209,3 +205,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ If you find this project helpful, please consider giving it a star!
 
 📧 For questions or collaboration: nguyenbd1105@gmail.com
+
